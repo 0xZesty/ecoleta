@@ -1,4 +1,4 @@
-<h1 align="center">
+6<h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="public/assets/banner.png" />
 </h1>
 
@@ -62,8 +62,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](nodejs). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](vscode)
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando o servidor
 
