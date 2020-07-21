@@ -53,7 +53,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - Html
 - Css
-- Javascript
 - [Node.js](https://nodejs.org/en/)
 
 
