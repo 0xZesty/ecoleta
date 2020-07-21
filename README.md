@@ -51,10 +51,10 @@ O layout da aplicação está disponível no Figma:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Html][html]
-- [Css][css]
-- [Javascript][javascript]
-- [Node.js][nodejs]
+- [Html]
+- [Css]
+- [Javascript]
+- [Node.js](https://nodejs.org/en/)
 
 
 ## 🚀 Como executar o projeto
@@ -62,8 +62,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js][nodejs]. 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
+[Git](https://git-scm.com), [Node.js][https://nodejs.org/en/]. 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode][https://code.visualstudio.com/]
 
 ### 🎲 Rodando o servidor
 
