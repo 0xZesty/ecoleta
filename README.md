@@ -18,9 +18,6 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Cr3ativeLZ/ecoleta">
   </a>
 
-   <a href="https://github.com/Cr3ativeLZ/ecoleta/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/ecoleta/Cr3ativeLZ?style=social">
-  </a>
 </p>
 
 
